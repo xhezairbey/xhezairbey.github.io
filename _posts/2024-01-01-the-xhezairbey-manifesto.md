@@ -1,8 +1,9 @@
 ---
 layout: post
-title: The Manifesto of Xhezairbey
-lead: The
+title: The Xhezairbey Manifesto
+lead: A carefully crafted doctrine for a life with dignity
 ---
+![Unsplash computer image with cat](https://source.unsplash.com/Iv8n8-gcsJo/600x400)
 
 I wast taught these rules by my parents (who are awesome, hi mum, hi dad!) and developed them through life experiences. If you're not bored already, then I'd be happy to share them with you. (The rules, not my parents.)
 
@@ -12,10 +13,6 @@ I do have a religion, and I don't want to start a debate about religion. It's an
 I do however, like how certain religions give their followers a moral code. I think that's good. Sometimes I think that religions were built as a form of ancient law enforcement. Instead of, don't kill that guy, you'll go to prison. You have don't kill that guy, you'll burn for all eternity and have Kevin Bacon for company. Or something like that.
 
 Instead of God, I have my own moral code. It's more like Phil Sturgeon's 'Don't be a Dick' open source license than the 10 commandments.
-
-We all know this one already. Treat others as you would like to be treated. It's the official don't be a dick rule.
-
-It takes a while to get used to though. You have to think about all of your actions, and how they might be effecting others around you. While this might take a second or two, I think the outcome of not offending someone makes it all work out.
 
 ## 2. I am not always right.
 In fact, I'm wrong a lot of the time. I never like to assume that I know everything. If someone were to ask me...
@@ -36,7 +33,11 @@ I just feel that giving an opinion, or your interpretation of the answer to a qu
 
 I see what you did there..
 
-## 3. Females are amazing.
+## 3. Wish for others what you wish for yourself, always
+We all know this one already. Treat others as you would like to be treated. It's the official don't be a dick rule.
+
+It takes a while to get used to though. You have to think about all of your actions, and how they might be effecting others around you. While this might take a second or two, I think the outcome of not offending someone makes it all work out.
+
 I'm a fan of equality. I think that ladies are beautiful, powerful, and sometimes scarey creatures. I think that they can, and are welcome to do anything that I can.
 
 While this is true, it's fair to say that while nature has gifted women with beauty, and sometimes fascinating wobbly bits, it has chosen to gift us guys with muscle and hairy ears.
