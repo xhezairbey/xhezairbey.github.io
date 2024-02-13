@@ -8,8 +8,8 @@ url: https://xhezairbey.github.io
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: author
+tagshort: Supreme Leader
 
 # author settings
 author:
@@ -21,11 +21,11 @@ phone: +1 234 567 890
 
 # social media links
 social:
-  facebook: xhezairbeg
-  instagram: xhezairbeg
   github: xhezairbey
   linkedin: xhezairbey
   x: xhezairbey
+  facebook: xhezairbeg
+  instagram: xhezairbeg
 
 # build settings
 permalink: pretty
