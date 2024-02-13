@@ -1,8 +1,9 @@
 title: Arian Xhezairi
 description: Xhezairbey Cronicles
 baseurl: ""
-domain: xhezairi.com
-url: https://xhezairi.com
+# domain: xhezairi.com
+# url: https://xhezairi.com
+url: https://xhezairbey.github.io
 
 theme: cvless
 
