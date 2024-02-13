@@ -8,8 +8,8 @@ url: https://xhezairbey.github.io
 theme: cvless
 
 # site settings
-taglong: author
-tagshort: Supreme Leader
+taglong: ex-military - engineer - speaker
+tagshort: ✪ Supreme Leader
 
 # author settings
 author:
@@ -21,11 +21,10 @@ phone: +1 234 567 890
 
 # social media links
 social:
+  x: xhezairbey
   github: xhezairbey
   linkedin: xhezairbey
-  x: xhezairbey
-  facebook: xhezairbeg
-  instagram: xhezairbeg
+  website: https://mamiresedje.com
 
 # build settings
 permalink: pretty
