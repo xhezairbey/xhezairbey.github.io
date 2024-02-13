@@ -9,7 +9,7 @@ theme: cvless
 
 # site settings
 taglong: erudite • engineer • ex-military
-tagshort: ✪ Supreme Leader
+tagshort: ✪ The Supreme Leader
 
 # author settings
 author:
@@ -25,6 +25,11 @@ social:
   github: xhezairbey
   linkedin: xhezairbey
   website: https://mamiresedje.com
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title
 
 # build settings
 permalink: pretty

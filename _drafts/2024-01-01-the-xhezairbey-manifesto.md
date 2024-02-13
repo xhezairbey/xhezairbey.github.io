@@ -7,7 +7,7 @@ lead: A carefully crafted doctrine for a life with dignity
 
 I wast taught these rules by my parents (who are awesome, hi mum, hi dad!) and developed them through life experiences. If you're not bored already, then I'd be happy to share them with you. (The rules, not my parents.)
 
-## 1. God comes first
+## 1. God comes first[^fn-god]
 I do have a religion, and I don't want to start a debate about religion. It's an argument that no one ever wins. Wars have been (and still are) fought over similar arguments.
 
 I do however, like how certain religions give their followers a moral code. I think that's good. Sometimes I think that religions were built as a form of ancient law enforcement. Instead of, don't kill that guy, you'll go to prison. You have don't kill that guy, you'll burn for all eternity and have Kevin Bacon for company. Or something like that.
@@ -99,3 +99,7 @@ Life is incredibly short in the grand scheme of things. Do the things that you e
 Take a few trips. Look at things that inspire you. Make something using a creative skill, because deep down, everyone is creative.
 
 Write a second, non-technical blog about potentially controversial topics. Wink wink.
+
+* * *
+
+[^fn-god]: <a href="https://www.youtube.com/watch?v=bV5uKHsWQtY&t=112s" target="_blank">Put God First</a>
