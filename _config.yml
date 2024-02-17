@@ -5,14 +5,13 @@ baseurl: ""
 # url: https://xhezairi.com
 url: https://xhezairbey.github.io
 
-theme: cvless
-
 # site settings
 taglong: erudite • engineer • ex-military
 tagshort: ✪ The Supreme Leader
 
 # author settings
 author:
+  username: xhezairbey
   name: Arian Xhezairi
   email: name@thisdomain.com
 photo: assets/files/photo.jpg
@@ -22,6 +21,7 @@ phone: +1 234 567 890
 # social media links
 social:
   x: xhezairbey
+  youtube: xhezairbey
   github: xhezairbey
   linkedin: xhezairbey
   website: https://mamiresedje.com
@@ -30,6 +30,13 @@ collections:
   posts:
     output: true
     permalink: /:collection/:title
+
+theme: cvless
+# plugins:
+  # - jekyll-feed
+
+# feed:
+#   path: atom.xml
 
 # build settings
 permalink: pretty

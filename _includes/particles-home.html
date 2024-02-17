@@ -9,9 +9,6 @@
         {% if site.social.linkedin %}
         <a class="particles-icon" href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank">{% include svg/linkedin.svg %}</a>
         {% endif %}
-        {% if site.social.stackoverflow %}
-        <a class="particles-icon" href="https://stackoverflow.com/users/{{ site.social.stackoverflow }}">{% include svg/stackoverflow.svg %}</a>
-        {% endif %}
         {% if site.social.github %}
         <a class="particles-icon" href="https://github.com/{{ site.social.github }}" target="_blank">{% include svg/github.svg %}</a>
         {% endif %}
@@ -24,10 +21,13 @@
         {% if site.social.instagram %}
         <a class="particles-icon" href="https://www.instagram.com/{{ site.social.instagram }}" target="_blank">{% include svg/instagram.svg %}</a>
         {% endif %}
+        {% if site.social.youtube %}
+        <a class="particles-icon" href="https://www.youtube.com/c/{{ site.social.youtube }}" target="_blank">{% include svg/youtube.svg %}</a>
+        {% endif %}
         {% if site.social.website %}
         <a class="particles-icon" href="{{ site.social.website }}" target="_blank">{% include svg/send-mail-circled.svg %}</a>
         {% endif %}
-        <a class="particles-icon" href="cv">{% include svg/cv-circled.svg %}</a>
+        <!-- <a class="particles-icon" href="cv">{% include svg/cv-circled.svg %}</a> -->
       </div>
     </div>
     <div class="particles-scroll">
