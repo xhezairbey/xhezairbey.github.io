@@ -16,7 +16,7 @@ I have put this website up as a hollow expose of my actions (or rather inactions
 
 If you landed here consciously, you'd be forgiven for thinking that I can be of exceptional service. Should you need a gentle refresher, [click here](cv) to see my stripped-down CV, or [here](assets/files/cv.pdf) if you instead prefer a printable, beautifully designed version of it.
 
-Yours faithfully,
-~ ✘
+**Yours faithfully,**  
+**✘.**
 
 {% include archive.html %}
